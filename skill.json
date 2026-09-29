@@ -1,0 +1,20 @@
+{
+  "name": "genpark-inverted-file-ivf-centroid-clusterer-skill",
+  "version": "1.0.0",
+  "description": "Inverted File (IVF) index routing vectors to Voronoi cell centroids for pruned sub-linear retrieval",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "ivf-index",
+    "inverted-file",
+    "voronoi-cells",
+    "centroid-clustering",
+    "ann-search",
+    "python-standard-library",
+    "agent-skills",
+    "vector-partitioning",
+    "clustering",
+    "developer-tools"
+  ]
+}
